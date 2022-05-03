@@ -1,0 +1,12 @@
+{
+    "name": "fredboat",
+    "description": "copy the link from youtube and append to ;;play ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "extension.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+  }
